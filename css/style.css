@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    padding: 20px 10px;
+}
+
+h3{
+    padding: 0 10px;
+}
+.form-item{
+    padding: 10px 20px;
+}
+
+.tiket{
+    display: none;
+}
+
+.tiket.active{
+    display: block;
+}
