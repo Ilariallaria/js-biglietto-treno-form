@@ -25,4 +25,11 @@ genButton.addEventListener('click',
         document.getElementById('tiket').classList.add('active');
     }
 ) 
+ const resetButton = document.getElementById('reset');
 
+ resetButton.addEventListener ('click',
+    function(){
+        document.getElementById('tiket').classList.remove('active');
+
+    }
+ )

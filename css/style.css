@@ -15,6 +15,12 @@ h3{
     padding: 10px 20px;
 }
 
+.ms_btn{
+    border-color: grey;
+    background-color: gray;
+    color: white;
+}
+
 .tiket{
     display: none;
 }
