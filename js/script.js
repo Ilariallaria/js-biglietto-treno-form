@@ -41,7 +41,7 @@ const resetButton = document.getElementById('reset');
         document.getElementById('user').innerHTML = '';
         document.getElementById('offer').innerHTML = '';
         document.getElementById('last-price').innerHTML = '';
-    document.getElementById('vagon').innerHTML = '';
+        document.getElementById('vagon').innerHTML = '';
         document.getElementById('code').innerHTML = '';
 
         document.getElementById('tiket').classList.remove('active');
